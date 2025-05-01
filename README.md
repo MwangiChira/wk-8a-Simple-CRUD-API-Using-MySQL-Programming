@@ -1,1 +1,1 @@
-# wk-8a-Simple-CRUD-API-Using-MySQL-Programming
+# wk-8a-MySQL-Programming
